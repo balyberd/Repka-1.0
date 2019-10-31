@@ -1,0 +1,11 @@
+C:\Users\Че\source\repos\Repka\Repka\bin\Debug\netcoreapp3.0\Repka.exe
+C:\Users\Че\source\repos\Repka\Repka\bin\Debug\netcoreapp3.0\Repka.deps.json
+C:\Users\Че\source\repos\Repka\Repka\bin\Debug\netcoreapp3.0\Repka.runtimeconfig.json
+C:\Users\Че\source\repos\Repka\Repka\bin\Debug\netcoreapp3.0\Repka.runtimeconfig.dev.json
+C:\Users\Че\source\repos\Repka\Repka\bin\Debug\netcoreapp3.0\Repka.dll
+C:\Users\Че\source\repos\Repka\Repka\bin\Debug\netcoreapp3.0\Repka.pdb
+C:\Users\Че\source\repos\Repka\Repka\obj\Debug\netcoreapp3.0\Repka.csprojAssemblyReference.cache
+C:\Users\Че\source\repos\Repka\Repka\obj\Debug\netcoreapp3.0\Repka.AssemblyInfoInputs.cache
+C:\Users\Че\source\repos\Repka\Repka\obj\Debug\netcoreapp3.0\Repka.AssemblyInfo.cs
+C:\Users\Че\source\repos\Repka\Repka\obj\Debug\netcoreapp3.0\Repka.dll
+C:\Users\Че\source\repos\Repka\Repka\obj\Debug\netcoreapp3.0\Repka.pdb
